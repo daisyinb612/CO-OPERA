@@ -4,4 +4,4 @@
 
 ## Evaluation
 Raw data and statistical processes
-![SUS](./SUS_score.png)
+![SUS](./Figure4(c)SUS_rawdata.png)
