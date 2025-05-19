@@ -2,6 +2,9 @@
 ## Demo
 [![视频描述](https://img.youtube.com/vi/SsYI9n0muaM/maxresdefault.jpg)](https://www.youtube.com/watch?v=SsYI9n0muaM)
 
+## Workflow & Dataflow
+![Workflow](./workflow.png)
+
 ## Evaluation
 Figure4(a&b):raw data and statistical processe are in the file(Figure4(a&b)).
 
